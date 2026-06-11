@@ -54,3 +54,7 @@ cd translation_ai
 pip install -r requirements.txt
 python app.py
 
+📜 License
+
+Copyright (c) 2026 Mugilan. All Rights Reserved.
+
