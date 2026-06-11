@@ -1,0 +1,7 @@
+gradio==4.44.0
+transformers
+torch
+torchaudio
+sentencepiece
+numpy
+scipy
